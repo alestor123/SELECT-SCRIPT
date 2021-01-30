@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for running selected script from npm ",
   "main": "App.js",
+  "bin": {
+    "select-script": "cli.js"
+  },
   "scripts": {
     "start": "echo hehe",
     "test": "echo \"Error: no test specified\" && exit 1"
