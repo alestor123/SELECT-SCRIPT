@@ -1,0 +1,19 @@
+{
+  "name": "select-script",
+  "version": "1.0.0",
+  "description": "This is a simple code for running selected script from npm ",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/SELECT-SCRIPT.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/SELECT-SCRIPT/issues"
+  },
+  "homepage": "https://github.com/alestor123/SELECT-SCRIPT#readme"
+}
