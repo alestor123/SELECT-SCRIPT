@@ -1,5 +1,4 @@
-var {execSync} = require('child_process'),
-fs = require('fs'),
+var fs = require('fs'),
 scripts = [];
 module.exports = () => {
 var data = JSON.parse(fs.readFileSync('./package.json', 'utf8'))
